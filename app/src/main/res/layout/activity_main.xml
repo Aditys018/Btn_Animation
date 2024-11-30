@@ -11,9 +11,9 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="106dp"
-        android:layout_marginEnd="105dp"
-        android:layout_marginBottom="129dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginEnd="103dp"
+        android:layout_marginBottom="54dp"
         app:offColor="#9E9E9E"
         app:onColor="#4CAF50"
         app:sliderColor="#FFFFFF" />
