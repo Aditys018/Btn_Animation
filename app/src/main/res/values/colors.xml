@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOn">#4CAF50</color>
+    <color name="colorOff">#9E9E9E</color>
+    <color name="colorSlider">#FFFFFF</color>
+    <color name="primary_light">#FFFFFF</color>
+    <color name="secondary_light">#000000</color>
+    <color name="text_color_light">#000000</color>
+    <color name="primary_dark">#0E0E0E</color>
+    <color name="secondary_dark">#000000</color>
+    <color name="text_color_dark">#FFFFFF</color>
+</resources>
+

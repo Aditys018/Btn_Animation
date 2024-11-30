@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Btn_Animation" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorSecondary">@color/secondary_light</item>
+        <item name="textColor">@color/text_color_light</item>
+    </style>
+
+
+    <style name="Theme.Btn_Animation" parent="Base.Theme.Btn_Animation" />
+</resources>
